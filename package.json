@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/plusmancn/canvas-server#readme",
   "dependencies": {
+    "canvas": "^1.2.3",
+    "gm": "^1.18.1",
     "qiniu": "^6.1.8"
   }
 }
