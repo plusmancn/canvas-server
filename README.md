@@ -42,7 +42,7 @@ http://character-image.plusman.cn:8001/CharacterImage/%E4%B8%9C
 
 (The MIT License)
 
-Copyright (c) 2010 [plusmancn](plusmancn@gmail.com)
+Copyright (c) 2015 [plusmancn](plusmancn@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
