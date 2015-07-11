@@ -10,13 +10,13 @@ node ./server.js
 **API开放接口**
 ```javascript
 // GET 请求方式
-http://character-image.plusman.cn:8001/CharacterImage/:character
+http://character-image.plusman.cn/CharacterImage/:character
 
 // 参数说明
 :character 单字符，传参数时对参数做一层，encodeURIComponent 编码。
 
 // 示例
-http://character-image.plusman.cn:8001/CharacterImage/%E4%B8%9C
+http://character-image.plusman.cn/CharacterImage/%E4%B8%9C
 
 // return JSON
 {
